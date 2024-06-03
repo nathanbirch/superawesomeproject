@@ -1,7 +1,21 @@
-.errorClass {
+.errorClass:hover {
   color: red;
 }
 
 .hidden {
   display: none;
+}
+
+.purpleContainer {
+  width: 500px;
+  margin: 0 auto;
+}
+
+.purpleBox {
+  width: 50%;
+  height: 100px;
+  background-color: rgb(241, 142, 241);
+  padding: 10px;
+  border: 50px solid black;
+  margin: 10px 15px 50px;
 }

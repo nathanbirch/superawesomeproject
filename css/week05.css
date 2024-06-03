@@ -1,0 +1,11 @@
+p {
+  color: pink;
+}
+
+#actionDiv {
+  background-color: lightblue;
+}
+
+#actionDiv:hover {
+  cursor: pointer;
+}
