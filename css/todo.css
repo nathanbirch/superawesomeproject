@@ -1,0 +1,9 @@
+.delete-btn {
+  margin-left: 10px;
+  color: red;
+  cursor: pointer;
+}
+
+.delete-btn i {
+  pointer-events: none; /* Prevents clicking directly on the icon */
+}
